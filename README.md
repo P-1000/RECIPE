@@ -1,7 +1,7 @@
-#Recipe App
+# Recipe App
 This is a simple recipe app built with Vanilla JavaScript. It allows users to search for recipes and view the ingredients and instructions for each recipe.
 
-##Usage
+## Usage
 Clone the repository: git clone <repository-url>
 Open the project folder.
 Run the index.html file in your preferred web browser.
